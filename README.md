@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deirdre Hopcraft</h1>
 <h3 align="center">An Aspiring Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif">
-- 🔭 I just got an A on **MetroCar Funnel Analysis**
+- 🔭 I just got an A on **MetroCar Funnel Analysis Project**
 
 - 🌱 I’m currently learning **SQL, Python, GIT, Data Analysis, AI Learning**
 
